@@ -1,2 +1,2 @@
-# -daily-arXiv-data
-Repository for daily arxiv papers storage
+# daily-arXiv-data
+Storage repository for [daily arxiv papers repository](https://github.com/youngjetduan/daily-arXiv-ai-enhanced)
